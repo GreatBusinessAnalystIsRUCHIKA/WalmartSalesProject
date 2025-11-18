@@ -92,12 +92,14 @@ Average rating per product line
 Branch with sales above average sales
 
 Sales
+
 Sales made during morning/afternoon/evening per weekday
 Customer type contributing most revenue
 City with highest VAT %
 Customer type paying the highest VAT
 
 Customer
+
 Unique customer types
 Payment method distribution
 Gender distribution per branch
